@@ -4,7 +4,6 @@ import support.scripts as scripts
 import support.sql_queries as sql_queries
 from streamlit_option_menu import option_menu
 import support.charts as charts
-import plotly.express as px
 
 st.set_page_config(
     page_title='PhonePe Analysis',
