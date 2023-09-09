@@ -30,7 +30,7 @@ selected = option_menu(
     menu_title = None,
     options = ["ABOUT","HOME","INSIGHTS"],
     icons =['',"house","bar-chart"],
-    default_index=2,
+    default_index=0,
     orientation="horizontal",
     styles={
             "container": {"padding": "0!important", "background-color": "white","size":"cover", "width": "100%"},

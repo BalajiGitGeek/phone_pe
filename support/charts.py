@@ -6,7 +6,7 @@ import support.sql_queries as sql_queries
 @st.cache_data
 def get_geojson():
     states_id = {}
-    states_data = json.load(open('./india_state.geojson'))
+    states_data = json.load(open('./support/india_state.json','r'))
 
     for each_state in states_data["features"]:
         each_state["id"] = each_state["properties"]["ID_1"]
