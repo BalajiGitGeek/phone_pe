@@ -1,0 +1,221 @@
+Year,Quarter,District,registeredUsers
+2018,1,bengaluru urban,1922368
+2018,1,pune,1211643
+2018,1,jaipur,900773
+2018,1,mumbai suburban,719300
+2018,1,hyderabad,655175
+2018,1,rangareddy,635175
+2018,1,thane,631864
+2018,1,ahmadabad,572811
+2018,1,medchal malkajgiri,549429
+2018,1,visakhapatnam,497187
+2018,2,bengaluru urban,2553312
+2018,2,pune,1592293
+2018,2,jaipur,1182983
+2018,2,mumbai suburban,957633
+2018,2,thane,861292
+2018,2,hyderabad,842483
+2018,2,rangareddy,804959
+2018,2,ahmadabad,751746
+2018,2,medchal malkajgiri,696211
+2018,2,surat,652372
+2018,3,bengaluru urban,3167597
+2018,3,pune,1974138
+2018,3,jaipur,1438305
+2018,3,mumbai suburban,1218632
+2018,3,thane,1104206
+2018,3,hyderabad,1024241
+2018,3,rangareddy,963186
+2018,3,ahmadabad,919252
+2018,3,medchal malkajgiri,828425
+2018,3,surat,808005
+2018,4,bengaluru urban,4126734
+2018,4,pune,2498852
+2018,4,jaipur,1733893
+2018,4,mumbai suburban,1578487
+2018,4,thane,1473811
+2018,4,hyderabad,1336872
+2018,4,rangareddy,1217664
+2018,4,ahmadabad,1212636
+2018,4,medchal malkajgiri,1056739
+2018,4,surat,998807
+2019,1,bengaluru urban,5003207
+2019,1,pune,3038402
+2019,1,jaipur,2060175
+2019,1,mumbai suburban,1901210
+2019,1,thane,1834051
+2019,1,hyderabad,1638436
+2019,1,rangareddy,1470874
+2019,1,ahmadabad,1450100
+2019,1,medchal malkajgiri,1279531
+2019,1,surat,1180819
+2019,2,bengaluru urban,5694165
+2019,2,pune,3514081
+2019,2,jaipur,2290462
+2019,2,mumbai suburban,2151657
+2019,2,thane,2118406
+2019,2,hyderabad,1856926
+2019,2,ahmadabad,1656341
+2019,2,rangareddy,1651300
+2019,2,medchal malkajgiri,1428880
+2019,2,surat,1338584
+2019,3,bengaluru urban,6383771
+2019,3,pune,4004991
+2019,3,jaipur,2520933
+2019,3,mumbai suburban,2407754
+2019,3,thane,2396815
+2019,3,hyderabad,2071673
+2019,3,ahmadabad,1848860
+2019,3,rangareddy,1826019
+2019,3,medchal malkajgiri,1572320
+2019,3,surat,1481391
+2019,4,bengaluru urban,7016836
+2019,4,pune,4416899
+2019,4,jaipur,2746860
+2019,4,thane,2638051
+2019,4,mumbai suburban,2630360
+2019,4,hyderabad,2283903
+2019,4,ahmadabad,2015947
+2019,4,rangareddy,2001437
+2019,4,medchal malkajgiri,1714832
+2019,4,north twenty four parganas,1638605
+2020,1,bengaluru urban,7564577
+2020,1,pune,4802397
+2020,1,jaipur,2966508
+2020,1,thane,2878073
+2020,1,mumbai suburban,2843378
+2020,1,hyderabad,2483843
+2020,1,ahmadabad,2185983
+2020,1,rangareddy,2166829
+2020,1,medchal malkajgiri,1845599
+2020,1,north twenty four parganas,1789973
+2020,2,bengaluru urban,8028070
+2020,2,pune,5144688
+2020,2,jaipur,3182014
+2020,2,thane,3135101
+2020,2,mumbai suburban,3060916
+2020,2,hyderabad,2653534
+2020,2,ahmadabad,2384154
+2020,2,rangareddy,2313748
+2020,2,north twenty four parganas,1966125
+2020,2,medchal malkajgiri,1963353
+2020,3,bengaluru urban,8611452
+2020,3,pune,5546002
+2020,3,jaipur,3433167
+2020,3,thane,3401853
+2020,3,mumbai suburban,3304696
+2020,3,hyderabad,2875965
+2020,3,ahmadabad,2580178
+2020,3,rangareddy,2495699
+2020,3,north twenty four parganas,2143943
+2020,3,medchal malkajgiri,2111567
+2020,4,bengaluru urban,9286243
+2020,4,pune,6033615
+2020,4,thane,3727358
+2020,4,jaipur,3679874
+2020,4,mumbai suburban,3609970
+2020,4,hyderabad,3142385
+2020,4,ahmadabad,2787991
+2020,4,rangareddy,2704868
+2020,4,north twenty four parganas,2321888
+2020,4,medchal malkajgiri,2282695
+2021,1,bengaluru urban,9955387
+2021,1,pune,6481971
+2021,1,thane,4014464
+2021,1,jaipur,3951866
+2021,1,mumbai suburban,3886500
+2021,1,hyderabad,3379663
+2021,1,ahmadabad,2999575
+2021,1,rangareddy,2906635
+2021,1,north twenty four parganas,2491076
+2021,1,surat,2458596
+2021,2,bengaluru urban,10604609
+2021,2,pune,6915820
+2021,2,thane,4290066
+2021,2,jaipur,4226231
+2021,2,mumbai suburban,4151227
+2021,2,hyderabad,3598337
+2021,2,ahmadabad,3209841
+2021,2,rangareddy,3097973
+2021,2,north twenty four parganas,2660664
+2021,2,surat,2633443
+2021,3,bengaluru urban,11321012
+2021,3,pune,7398336
+2021,3,thane,4597394
+2021,3,jaipur,4534297
+2021,3,mumbai suburban,4444495
+2021,3,hyderabad,3839513
+2021,3,ahmadabad,3445024
+2021,3,rangareddy,3310906
+2021,3,north twenty four parganas,2852030
+2021,3,surat,2830392
+2021,4,bengaluru urban,12038775
+2021,4,pune,7880431
+2021,4,thane,4906492
+2021,4,jaipur,4841883
+2021,4,mumbai suburban,4740546
+2021,4,hyderabad,4081185
+2021,4,ahmadabad,3679243
+2021,4,rangareddy,3523496
+2021,4,north twenty four parganas,3043008
+2021,4,surat,3026960
+2022,1,bengaluru urban,12707664
+2022,1,pune,8331582
+2022,1,thane,5196050
+2022,1,jaipur,5133527
+2022,1,mumbai suburban,5017556
+2022,1,hyderabad,4306136
+2022,1,ahmadabad,3897869
+2022,1,rangareddy,3722676
+2022,1,north twenty four parganas,3224459
+2022,1,surat,3210535
+2022,2,bengaluru urban,13342916
+2022,2,pune,8757249
+2022,2,thane,5471749
+2022,2,jaipur,5409763
+2022,2,mumbai suburban,5281053
+2022,2,hyderabad,4519625
+2022,2,ahmadabad,4105172
+2022,2,rangareddy,3911372
+2022,2,north twenty four parganas,3397791
+2022,2,surat,3385398
+2022,3,bengaluru urban,13997602
+2022,3,pune,9194074
+2022,3,thane,5757165
+2022,3,jaipur,5696726
+2022,3,mumbai suburban,5555095
+2022,3,hyderabad,4739891
+2022,3,ahmadabad,4319512
+2022,3,rangareddy,4105107
+2022,3,north twenty four parganas,3578500
+2022,3,surat,3567767
+2022,4,bengaluru urban,14654455
+2022,4,pune,9622338
+2022,4,thane,6042267
+2022,4,jaipur,5975863
+2022,4,mumbai suburban,5831539
+2022,4,hyderabad,4962214
+2022,4,ahmadabad,4530853
+2022,4,rangareddy,4296707
+2022,4,north twenty four parganas,3755017
+2022,4,surat,3747780
+2023,1,bengaluru urban,15290372
+2023,1,pune,10037022
+2023,1,thane,6314618
+2023,1,jaipur,6247095
+2023,1,mumbai suburban,6095695
+2023,1,hyderabad,5176899
+2023,1,ahmadabad,4734630
+2023,1,rangareddy,4483193
+2023,1,north twenty four parganas,3926974
+2023,1,surat,3919829
+2023,2,bengaluru urban,15812243
+2023,2,pune,10396344
+2023,2,thane,6552282
+2023,2,jaipur,6490210
+2023,2,mumbai suburban,6322778
+2023,2,hyderabad,5349842
+2023,2,ahmadabad,4913610
+2023,2,rangareddy,4638501
+2023,2,north twenty four parganas,4079270
+2023,2,surat,4076929
