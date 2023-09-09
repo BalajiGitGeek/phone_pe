@@ -39,7 +39,7 @@ pip install DateTime
 
 3. Configure the MYSQL connection by replacing the existing password in **support/sql_queries.py** and **migrate.py** file with your MYSQL password. 
 
-4. If you want to use the most recent PhonePe Pulse data, you can update it. First, delete the **github_data** and **csv_files** directories. Then, execute the following command to extract the new PhonePe Pulse data:
+4. If you want to use the most recent PhonePe Pulse data, you can update it. First, delete the **csv_files** directories. Then, execute the following command to extract the new PhonePe Pulse data:
 
 ```bash
 python extract.py
